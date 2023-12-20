@@ -10,3 +10,6 @@ In my free time I like to develop malware and study so that one day I can consid
 
 # **Im not a professional!**
 ## **Languages:** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
+## Below is my contributions graph for 2023
+![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
