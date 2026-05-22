@@ -10,7 +10,6 @@ Stuff I like:
 
 ![](https://img.shields.io/badge/OS_Internals-Windows-0078D4?logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Debugger-WinDbg-001F3F)
-![](https://img.shields.io/badge/Debugger-x64dbg-202020)
 ![](https://img.shields.io/badge/Tools-Sysinternals-8A2BE2)
 ![](https://img.shields.io/badge/Tools-Detect_It_Easy-FFD700)
 ![](https://img.shields.io/badge/Detection-PE--sieve-006400)
