@@ -6,7 +6,7 @@ Quick links:
 - LinkedIn: https://www.linkedin.com/in/vithor-schirmer
 - Discord: https://discord.com/users/841409887434833961
 
-Stuff I like:
+My interests:
 
 ![](https://img.shields.io/badge/OS_Internals-Windows-0078D4?logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Debugger-WinDbg-001F3F)
